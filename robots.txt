@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://anallblex.github.io/chinese-web-mk-com/sitemap.xml
